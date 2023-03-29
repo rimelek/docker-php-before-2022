@@ -1,5 +1,11 @@
 # README
 
+!!! IMPORTANT !!!: The new repository is https://github.com/rimelek/docker-php
+
+Years ago I made a mistake and pushed the repository in a new namespace instead of using GitHub's "transfer" feature so I had two repository with common history. Now I decided to move the project back to the old namespace "rimelek". Since both of the repositories have followers, stars or forks, I keep this repository too, but I recommend everyone to use the new one linked above.
+
+---
+
 ## Introduction
 
 This repository contains the source to build multiple PHP versions based on the [official Docker images of PHP](https://hub.docker.com/_/php/).
